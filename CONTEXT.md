@@ -14,4 +14,8 @@ Repo docs-only, público, PT-BR. Cada tabela carrega o carimbo "verificado em <m
 |------|-------------|
 | [`README.md`](README.md) | Como ler as tabelas e o quick pick de stacks recomendadas |
 | [`ROADMAP.md`](ROADMAP.md) | Pendências: revisão mensal de limites, próximas entradas |
+| [`harnesses.md`](harnesses.md) | Tabela de agentes CLI: licença, cota grátis, provedores |
+| [`ide.md`](ide.md) | Tabela de extensões de IDE: como cada uma fica grátis |
+| [`provedores.md`](provedores.md) | Free tiers de API: limites reais, free permanente vs trial |
+| [`modelos.md`](modelos.md) | Modelos open-weights: onde rodar grátis + runtimes locais |
 <!-- routing:end -->
