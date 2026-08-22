@@ -4,12 +4,12 @@
 
 ## Status
 
-v0.1.0: as quatro tabelas + quick pick no README.
+v0.1.0 em review (quatro tabelas + quick pick). Rotina seguinte: revisão mensal de limites.
 
 ## Backlog
 
 - [ ] Revisão mensal dos limites: bater o carimbo "verificado em" de cada tabela contra a página oficial
-- [ ] Seção de runtimes locais (Ollama, LM Studio) em modelos.md
+- [ ] Rastrear o catálogo `:free` do OpenRouter — modelos entram e saem toda semana, a tabela de modelos envelhece rápido
 - [ ] Coluna "degrau pago" nos provedores — o preço do primeiro plano depois do free tier
 
 ## Rejected
