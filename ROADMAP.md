@@ -4,7 +4,7 @@
 
 ## Status
 
-v0.1.0 em review (quatro tabelas + quick pick). Rotina seguinte: revisão mensal de limites.
+v0.1.0 shipped. Rotina: revisão mensal de limites.
 
 ## Backlog
 
